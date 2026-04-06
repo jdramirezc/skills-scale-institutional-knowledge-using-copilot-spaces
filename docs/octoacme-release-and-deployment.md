@@ -36,3 +36,8 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 - Notable changes:
 - Migration steps (if any):
 - Known issues:
+
+## Templates & References
+- [RACI Matrix Template](octoacme-raci-matrix.md) — Confirm release go/no-go ownership (Project Manager accountable; QA Lead, DevOps Engineer responsible)
+- [Decision Log Template](octoacme-decision-log.md) — Log go/no-go decisions and any scope changes made at release time
+- [Roles & Personas](octoacme-roles-and-personas.md) — Reference QA Lead for release sign-off and DevOps Engineer for deployment ownership

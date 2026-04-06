@@ -38,3 +38,8 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly
+
+## Templates & References
+- [RACI Matrix Template](octoacme-raci-matrix.md) — Clarify who is responsible, accountable, consulted, and informed for each execution activity
+- [Decision Log Template](octoacme-decision-log.md) — Log architectural or process decisions made during execution
+- [Roles & Personas](octoacme-roles-and-personas.md) — Reference QA Lead, DevOps Engineer, and other personas for escalation and handoff clarity
