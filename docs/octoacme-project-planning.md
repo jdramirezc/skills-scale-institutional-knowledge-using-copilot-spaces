@@ -41,3 +41,8 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
 - [ ] Initial test plan / QA approach drafted
+
+## Templates & References
+- [RACI Matrix Template](octoacme-raci-matrix.md) — Confirm role ownership across planning activities
+- [Decision Log Template](octoacme-decision-log.md) — Capture key planning decisions (scope trade-offs, release approach)
+- [Roles & Personas](octoacme-roles-and-personas.md) — Ensure all required personas (QA Lead, UX/UI Designer, etc.) are included in planning

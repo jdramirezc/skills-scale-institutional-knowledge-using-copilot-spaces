@@ -41,3 +41,8 @@ Move to planning when:
 - Success metrics are clear
 - Stakeholders agree on priority
 - Team availability is confirmed
+
+## Templates & References
+- [Roles & Personas](octoacme-roles-and-personas.md) — Use to define the proposed team roles in the one-pager
+- [RACI Matrix Template](octoacme-raci-matrix.md) — Draft a RACI at kickoff to clarify ownership from day one
+- [Decision Log Template](octoacme-decision-log.md) — Start logging decisions from the first stakeholder alignment meeting

@@ -40,3 +40,8 @@ Incident Communication
 ## Escalation Paths
 - Team-level -> PM -> Product Lead -> Sponsor
 - For security incidents, follow the security incident runbook and notify Security on-call
+
+## Templates & References
+- [RACI Matrix Template](octoacme-raci-matrix.md) — Identify risk owners and communication accountabilities per role
+- [Decision Log Template](octoacme-decision-log.md) — Record risk mitigation decisions and their rationale
+- [Roles & Personas](octoacme-roles-and-personas.md) — Reference Stakeholder Champion for stakeholder communication and DevOps Engineer for technical risk ownership
